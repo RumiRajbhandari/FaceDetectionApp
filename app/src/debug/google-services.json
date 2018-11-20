@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "398456176977",
+    "firebase_url": "https://ecomarket-c96b3.firebaseio.com",
+    "project_id": "ecomarket-c96b3",
+    "storage_bucket": "ecomarket-c96b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398456176977:android:abce0cbb4c7060e3",
+        "android_client_info": {
+          "package_name": "com.example.root.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398456176977-8aog6gar76clu941h7ut7gggda6vsjpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hMcjcIyGjniC24HdnBx9E5l_XPH7Sgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398456176977:android:9d0fa835711d25c4",
+        "android_client_info": {
+          "package_name": "example.com.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398456176977-8aog6gar76clu941h7ut7gggda6vsjpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hMcjcIyGjniC24HdnBx9E5l_XPH7Sgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
